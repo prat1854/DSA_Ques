@@ -6,9 +6,9 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 
 | Category | Solved Count |
 | :--- | :--- |
-| **Total** | **5** |
+| **Total** | **6** |
 | Easy | 0 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 2 |
 
 ---
@@ -21,7 +21,8 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | JavaScript | [Medium/0040-combination-sum-ii](Medium/0040-combination-sum-ii/) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | JavaScript | [Hard/0041-first-missing-positive](Hard/0041-first-missing-positive/) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | JavaScript | [Hard/0042-trapping-rain-water](Hard/0042-trapping-rain-water/) |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | JavaScript | [Medium/0043-multiply-strings](Medium/0043-multiply-strings/) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | JavaScript | [Medium/0057-insert-interval](Medium/0057-insert-interval/) |
 
 ---
-*Last synchronized: Sun, 13 Sep 2026 18:35:30 GMT*
+*Last synchronized: Sun, 13 Sep 2026 18:35:33 GMT*
