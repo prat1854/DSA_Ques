@@ -1,0 +1,19 @@
+{
+  "name": "dsa-ques-sync",
+  "version": "1.0.0",
+  "description": "Automated synchronization of solved LeetCode solutions to GitHub",
+  "main": "scripts/sync-leetcode.js",
+  "type": "commonjs",
+  "scripts": {
+    "sync": "node scripts/sync-leetcode.js",
+    "sync:dry": "node scripts/sync-leetcode.js --dry-run"
+  },
+  "keywords": [
+    "leetcode",
+    "dsa",
+    "automation",
+    "github"
+  ],
+  "author": "prat1854",
+  "license": "MIT"
+}
