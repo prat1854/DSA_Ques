@@ -6,9 +6,9 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 
 | Category | Solved Count |
 | :--- | :--- |
-| **Total** | **8** |
+| **Total** | **9** |
 | Easy | 0 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 3 |
 
 ---
@@ -24,7 +24,8 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | JavaScript | [Medium/0043-multiply-strings](Medium/0043-multiply-strings/) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | JavaScript | [Hard/0044-wildcard-matching](Hard/0044-wildcard-matching/) |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | JavaScript | [Medium/0045-jump-game-ii](Medium/0045-jump-game-ii/) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | JavaScript | [Medium/0046-permutations](Medium/0046-permutations/) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | JavaScript | [Medium/0057-insert-interval](Medium/0057-insert-interval/) |
 
 ---
-*Last synchronized: Sun, 13 Sep 2026 18:35:39 GMT*
+*Last synchronized: Sun, 13 Sep 2026 18:35:43 GMT*
