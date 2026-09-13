@@ -6,9 +6,9 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 
 | Category | Solved Count |
 | :--- | :--- |
-| **Total** | **13** |
+| **Total** | **14** |
 | Easy | 0 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 3 |
 
 ---
@@ -29,7 +29,8 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | JavaScript | [Medium/0048-rotate-image](Medium/0048-rotate-image/) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | JavaScript | [Medium/0049-group-anagrams](Medium/0049-group-anagrams/) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | JavaScript | [Medium/0050-powx-n](Medium/0050-powx-n/) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | JavaScript | [Medium/0053-maximum-subarray](Medium/0053-maximum-subarray/) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | JavaScript | [Medium/0057-insert-interval](Medium/0057-insert-interval/) |
 
 ---
-*Last synchronized: Sun, 13 Sep 2026 18:35:56 GMT*
+*Last synchronized: Sun, 13 Sep 2026 18:35:59 GMT*
