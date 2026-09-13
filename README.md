@@ -6,9 +6,9 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 
 | Category | Solved Count |
 | :--- | :--- |
-| **Total** | **10** |
+| **Total** | **11** |
 | Easy | 0 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 3 |
 
 ---
@@ -26,7 +26,8 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | JavaScript | [Medium/0045-jump-game-ii](Medium/0045-jump-game-ii/) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | JavaScript | [Medium/0046-permutations](Medium/0046-permutations/) |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | JavaScript | [Medium/0047-permutations-ii](Medium/0047-permutations-ii/) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | JavaScript | [Medium/0048-rotate-image](Medium/0048-rotate-image/) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | JavaScript | [Medium/0057-insert-interval](Medium/0057-insert-interval/) |
 
 ---
-*Last synchronized: Sun, 13 Sep 2026 18:35:47 GMT*
+*Last synchronized: Sun, 13 Sep 2026 18:35:50 GMT*
