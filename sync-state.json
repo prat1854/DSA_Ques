@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-13T18:35:59.227Z",
+  "lastSyncTime": "2026-09-13T18:36:02.172Z",
   "syncedSubmissions": {
     "2124242017": {
       "problemId": "39",
@@ -143,6 +143,17 @@
       "timestamp": "1789155562",
       "syncedAt": "2026-09-13T18:35:59.227Z",
       "path": "Medium\\0053-maximum-subarray"
+    },
+    "2140837489": {
+      "problemId": "56",
+      "problemFrontendId": "56",
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "Medium",
+      "lang": "JavaScript",
+      "timestamp": "1789319469",
+      "syncedAt": "2026-09-13T18:36:02.172Z",
+      "path": "Medium\\0056-merge-intervals"
     },
     "2140884855": {
       "problemId": "57",
