@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-13T18:35:23.954Z",
+  "lastSyncTime": "2026-09-13T18:35:26.987Z",
   "syncedSubmissions": {
     "2124242017": {
       "problemId": "39",
@@ -22,6 +22,17 @@
       "timestamp": "1788113786",
       "syncedAt": "2026-09-13T18:35:23.953Z",
       "path": "Medium\\0040-combination-sum-ii"
+    },
+    "2126484191": {
+      "problemId": "41",
+      "problemFrontendId": "41",
+      "title": "First Missing Positive",
+      "titleSlug": "first-missing-positive",
+      "difficulty": "Hard",
+      "lang": "JavaScript",
+      "timestamp": "1788200677",
+      "syncedAt": "2026-09-13T18:35:26.987Z",
+      "path": "Hard\\0041-first-missing-positive"
     },
     "2140884855": {
       "problemId": "57",
