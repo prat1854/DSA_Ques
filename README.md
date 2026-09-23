@@ -6,10 +6,10 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 
 | Category | Solved Count |
 | :--- | :--- |
-| **Total** | **16** |
+| **Total** | **17** |
 | Easy | 1 |
 | Medium | 12 |
-| Hard | 3 |
+| Hard | 4 |
 
 ---
 
@@ -33,6 +33,7 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | JavaScript | [Medium/0056-merge-intervals](Medium/0056-merge-intervals/) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | JavaScript | [Medium/0057-insert-interval](Medium/0057-insert-interval/) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | JavaScript | [Easy/0058-length-of-last-word](Easy/0058-length-of-last-word/) |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard | JavaScript | [Hard/0060-permutation-sequence](Hard/0060-permutation-sequence/) |
 
 ---
-*Last synchronized: Wed, 23 Sep 2026 14:57:57 GMT*
+*Last synchronized: Wed, 23 Sep 2026 14:58:01 GMT*
