@@ -6,8 +6,8 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 
 | Category | Solved Count |
 | :--- | :--- |
-| **Total** | **15** |
-| Easy | 0 |
+| **Total** | **16** |
+| Easy | 1 |
 | Medium | 12 |
 | Hard | 3 |
 
@@ -32,6 +32,7 @@ Automated repository for LeetCode solutions solved by [@ggZclYw4IT](https://leet
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | JavaScript | [Medium/0053-maximum-subarray](Medium/0053-maximum-subarray/) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | JavaScript | [Medium/0056-merge-intervals](Medium/0056-merge-intervals/) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | JavaScript | [Medium/0057-insert-interval](Medium/0057-insert-interval/) |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | JavaScript | [Easy/0058-length-of-last-word](Easy/0058-length-of-last-word/) |
 
 ---
-*Last synchronized: Sun, 13 Sep 2026 18:36:02 GMT*
+*Last synchronized: Wed, 23 Sep 2026 14:57:57 GMT*
